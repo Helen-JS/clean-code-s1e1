@@ -20,7 +20,7 @@
     font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
 .title {
     text-align: center;
@@ -45,16 +45,16 @@
 }
 
 .task-list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 .li-item, .heading {
-    list-style:none;
+    list-style: none;
 }
 
 input,button{
-    outline:none;
+    outline: none;
 }
 
 button {
@@ -135,7 +135,7 @@ label[for='new-task'] {
     width: 226px;
 }
 
-.li-item >    input[type="text"] {
+.li-item > input[type="text"] {
     width: 226px
 }
 
